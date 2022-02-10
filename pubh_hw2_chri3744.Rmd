@@ -179,6 +179,5 @@ smart_table.df %>%
        title = "Mean and SD Sample Size and Answer Proportion in MN") +
   #Split our plot by category for better visualization
   facet_wrap(~category, scales = "free")
-
 ```
 
