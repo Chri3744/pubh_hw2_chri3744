@@ -2,7 +2,7 @@
 title: "pubh_hw2_chri3744"
 author: "Taylor Christian"
 date: "2/7/2022"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include = FALSE}
